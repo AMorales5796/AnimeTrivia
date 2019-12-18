@@ -6,5 +6,5 @@ How to play:
 Enter "0" to start the game. Then enter corresponding numbers to the answers that you think are correct.
 
 Interesting Features:
-1. for the high low guessing game, the game tells you whether your answer is too low or too high.
+1. For the high low guessing game, the game tells you whether your answer is too low or too high.
 2. You have four tries to get the answer right.
